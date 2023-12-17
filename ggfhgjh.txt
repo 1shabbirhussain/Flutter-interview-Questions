@@ -1,0 +1,48 @@
+Q1.what is dependency injection 
+Ans. get_it se karty hein , kisi aik class ka globally single private object bana kar app me har jaga use kareinge t same value rahygi
+stacked me ye kam khudse hojata he locator me singleton me service register karwa k .
+Q2. async await
+
+Q3.OOP
+
+Q4.encapsulation in dart pubic and private variables file and class base  (dart dos not support class base it do file base private) access modifiers
+
+Q5.multiple inheritance in dart (nahi hoti but mixin se kar sakty hein)
+
+Q6. mixin
+
+Q7. interface
+
+Q8. App life cycle
+
+Q9. statefull vs stateless
+
+Q10. list view vs column
+
+Q11. how to handle responsiveness in flutter 
+
+Q12. localization
+
+Q13. http, dio 
+ 
+Q14. packages vs plugins
+
+Q15. what is context
+
+Q16. key
+
+Q17. types of testing in fluter, widgt test, unit test, integraton testing
+
+Q18 async vs async* , return vs yield
+
+Q19. SOILD principle
+
+Q20. Design patterns 
+
+Q21. 3 types build mode , debug , release, profile 
+
+Q22. play store (flutter build app bundle)
+
+Q23. multi part apis, for sending image like data
+
+Q24. leetcode, hackerrank
